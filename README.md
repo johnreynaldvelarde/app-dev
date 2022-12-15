@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-** My favorite series**
+**My favorite series**
 
 - Interstellar
 - Martian
